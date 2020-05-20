@@ -1,3 +1,3 @@
-Docker image
-
-https://hub.docker.com/repository/docker/davibeltrao/laravel_docker/
+Desafio Docker: 
+ 1- Arquivo .docker/nginx/.env criado para suportar variáveis de ambiente
+ 2- 
